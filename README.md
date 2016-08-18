@@ -1,3 +1,8 @@
+**NOTE** 
+In this fork there is a new function that makes a monthly playlist if there isn't one already, the monthly playlists follow this naming convention "Jan 2016 Watch Later". This is mostly just for personal use to make monthly playlists to help organize videos. So on every new month a user can run the funcion "Update Month," which will make the new playlist, if it doesn't exist, and then replace the old playlist in the spread sheet. Then running the function "Update Playlist" will update the new playlist with all the videos since the last update. Follow the same setup below to use this. But use this version for the files. All the same instructions apply.
+
+
+
 # Description [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RPRJ8UNWNWUK2)
 This is a Google Apps Script that automatically adds new Youtube videos to playlists (a replacement for Youtube Collections feature).
 
